@@ -1,6 +1,3 @@
-# Team-Page-Project
-Website template for the development team.
-
 # Практическая работа №18
 по дисциплине «МДК 05.01 Основы управления работой веб-ресурсов»  
 Тема: **Командная работа и pull requests**
